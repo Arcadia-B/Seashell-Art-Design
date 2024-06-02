@@ -1,1 +1,3 @@
 My website is built using React and TailwindCSS. Plain CSS has been used where necessary. I tried to create the website using Vite-React, but due to a conflict between Vite and TailwindCSS, I used vanilla React instead. The buttons with the arrow icon are active and functional, and the form in the contact section is also working. While building this site, I encountered and resolved multiple bugs, especially when working with React-Scroll and React-Router-Dom. I created the "Products" link using React-Router-Dom. For the other Navbar links, I used React-Scroll. In my next project, I plan to use React-Router-Dom exclusively.
+
+Live Preview : https://seashell-art-design.vercel.app/       
